@@ -1,0 +1,7 @@
+git commit
+git push
+ git push --set-upstream origin main
+git remote -v
+git push origin master
+heroku logs
+ heroku logs -a rhagavi-app
